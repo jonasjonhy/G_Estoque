@@ -5,5 +5,4 @@
 * Programação Orientada a Objetos
 * Conexão com Banco de Dados
 * Interface Grafica
-
 * (Incompleto)
